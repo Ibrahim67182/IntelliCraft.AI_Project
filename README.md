@@ -27,7 +27,7 @@
 
 ## 📺 YouTube Demo
 
-[![IntelliCRaft Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![IntelliCRaft Demo](https://img.youtube.com/vi/GPVJkrvn6Hg/0.jpg)](https://www.youtube.com/watch?v=GPVJkrvn6Hg)
 
 
 
