@@ -61,16 +61,26 @@ This will launch the app in your default web browser at LocalHost.
 ### 📂 Suggested Folder Structure
 
 
+
 📁 IntelliCRaft/
 ├── Home.py
+
 ├── pdf_chat.py
+
 ├── resume_analyzer.py
+
 ├── resume_content.py
+
 ├── email_chatbot.py
+
 ├── pages/
+
 │   ├── ATS_Resume_Analyzer.py
+
 │   ├── Email_Generator.py
+
 │   ├── PDF_Chat.py
+
 │   └── Resume_Content_Gnerator.py
 
 
@@ -97,7 +107,7 @@ This will launch the app in your default web browser at LocalHost.
 
 
 ### 🙌 Credits
-Developed with ❤️ by Ibrahim Junaid
+Developed by Ibrahim Junaid
 
 
 
